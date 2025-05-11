@@ -16,7 +16,7 @@ const Index = () => {
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white animate-fade-in">
             Все мои платформы <br />
             <span className="bg-gradient-to-r from-purple-400 to-purple-600 text-transparent bg-clip-text">
-              в одном удобном
+              в одном удобном месте
             </span>
           </h1>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto mb-8">
